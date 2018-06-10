@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "image": "https://pokemongohub.net/sprites/normal/335.png",
+    "clicked": false
+  },
+  {
+    "id": 2,
+    "image": "https://pokemongohub.net/sprites/normal/336.png",
+    "clicked": false
+  },
+  {
+    "id": 3,
+    "image": "https://pokemongohub.net/sprites/normal/311.png",
+    "clicked": false
+  },
+  {
+    "id": 4,
+    "image": "https://pokemongohub.net/sprites/normal/312.png",
+    "clicked": false
+  },
+  {
+    "id": 5,
+    "image": "https://pokemongohub.net/sprites/normal/369.png",
+    "clicked": false
+  },
+  {
+    "id": 6,
+    "image": "https://pokemongohub.net/sprites/normal/337.png",
+    "clicked": false
+  },
+  {
+    "id": 7,
+    "image": "https://pokemongohub.net/sprites/normal/338.png",
+    "clicked": false
+  },
+  {
+    "id": 8,
+    "image": "https://pokemongohub.net/sprites/normal/314.png",
+    "clicked": false
+  },
+  {
+    "id": 9,
+    "image": "https://pokemongohub.net/sprites/normal/313.png",
+    "clicked": false
+  },
+  {
+    "id": 10,
+    "image": "https://pokemongohub.net/sprites/normal/357.png",
+    "clicked": false
+  },
+  {
+    "id": 11,
+    "image": "https://pokemongohub.net/sprites/normal/324.png",
+    "clicked": false
+  },
+  {
+    "id": 12,
+    "image": "https://pokemongohub.net/sprites/dream-world/384.svg",
+    "clicked": false
+  }
+]
